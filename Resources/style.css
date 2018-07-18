@@ -1,3 +1,9 @@
 body {
     text-align: center;
+    background-color: white;
+    font-family: Helvetica, sans-serif;
+}
+h1 {
+    font-weight: bold;
+    font-size: 70px;
 }
