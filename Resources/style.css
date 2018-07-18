@@ -32,8 +32,9 @@ h2 {
 }
 
 h3 {
-    
+    font-size: 23px;
 }
+
 
 p {
     font-size: 14px;
@@ -42,4 +43,14 @@ p {
 .background {
     background-image:url(Images/the-flatiron-building.png);
     background-size:cover;
+}
+
+footer {
+    text-align: left;
+    background-color: dimgray;
+    color: white;
+}
+
+footer a:link {
+    color: white;
 }
