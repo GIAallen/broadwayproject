@@ -13,11 +13,16 @@ header {
 
 header ul {
     list-style: none;
+    
 }
 
 header li {
     color: white;
-    
+    margin-top: 12px;
+    font-size: 18px;
+}
+header a:link {
+    color: white;
 }
 h1 {
     font-weight: bold;
@@ -45,6 +50,11 @@ p {
     background-size:cover;
 }
 
+.background h3 {
+   
+    color: white;
+}
+
 footer {
     text-align: left;
     background-color: dimgray;
@@ -53,4 +63,8 @@ footer {
 
 footer a:link {
     color: white;
+}
+
+.smaller {
+    font-size: 12px;
 }
